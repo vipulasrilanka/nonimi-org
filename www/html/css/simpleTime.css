@@ -1,0 +1,27 @@
+/*
+ * SimpleTime
+ * Copyright 2021 Nonimi.org.
+ */
+ .redtext {
+   color: teal;
+   font-weight: bold;
+ }
+ .bluetext {
+   color: blue;
+ }
+ .ambertext {
+   color: #F4A460;
+ }
+
+ .header{
+     color: blue;
+     background: aqua;
+     border-bottom: red 10px solid;
+     border-top: red 10px solid;
+     padding 20px:
+ }
+
+ .container{
+     width: 500px;
+     margin:30px auto;
+ }
