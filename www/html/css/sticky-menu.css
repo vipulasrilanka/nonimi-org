@@ -66,6 +66,14 @@ html {
     text-align: center;
     background: #EFDECD;
 }
+
+.links-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
 	background-color: #F0F0F0;
@@ -77,6 +85,3 @@ html {
 .navbar-default .navbar-nav > li > a {
     color: #000;
 }
-
-
-
