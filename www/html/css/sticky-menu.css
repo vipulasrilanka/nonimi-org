@@ -74,6 +74,17 @@ html {
     background: #fff;
 }
 
+.leftAlignTextBlue{
+  text-align: left;
+  color: blue;
+}
+
+.leftAlignTextRed{
+  text-align: left;
+  color: red;
+}
+
+
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
 	background-color: #F0F0F0;

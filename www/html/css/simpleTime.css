@@ -25,3 +25,7 @@
      width: 500px;
      margin:30px auto;
  }
+
+ .leftAlignText{
+   text-align: left;
+ }
