@@ -1,0 +1,19 @@
+/*
+ * SimpleDraw
+ * Copyright 2021 Nonimi.org.
+ */
+
+ *{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+
+ #canvas {
+   border: 2px solid black;
+ }
+
+ .grapictext{
+   color: purple;
+   font-weight: bold;
+ }
