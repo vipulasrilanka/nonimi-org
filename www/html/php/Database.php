@@ -39,8 +39,8 @@
       <h2>Data Base Creation</h2>
       <?php
       $servername = "localhost";
-      $username = "vipula";
-      $password = "H0rapassword";
+      $username = "sensor";
+      $password = "Truztm3***";
 
       // Create connection to MySQL
       $conn = new mysqli($servername, $username, $password);
